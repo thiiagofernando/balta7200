@@ -21,7 +21,7 @@ class SplashView extends StatelessWidget {
             height: 20,
           ),
           Text(
-            "Meus Contatos",
+            "Meus Contatos ",
             style: TextStyle(
               fontSize: 24,
               color: Theme.of(context).accentColor,
